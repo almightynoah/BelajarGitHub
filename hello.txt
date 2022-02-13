@@ -1,1 +1,1 @@
-buat file hello.txt
+belajar buat file hello.txt
